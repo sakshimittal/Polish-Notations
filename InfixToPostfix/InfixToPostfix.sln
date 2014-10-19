@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InfixToPostfix", "InfixToPostfix\InfixToPostfix.vcxproj", "{1A512E33-B396-41FA-A390-129C4361334B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A512E33-B396-41FA-A390-129C4361334B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A512E33-B396-41FA-A390-129C4361334B}.Debug|Win32.Build.0 = Debug|Win32
+		{1A512E33-B396-41FA-A390-129C4361334B}.Release|Win32.ActiveCfg = Release|Win32
+		{1A512E33-B396-41FA-A390-129C4361334B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
